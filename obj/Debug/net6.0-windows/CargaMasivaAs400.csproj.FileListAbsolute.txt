@@ -1,0 +1,17 @@
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\bin\Debug\net6.0-windows\CargaMasivaAs400.exe
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\bin\Debug\net6.0-windows\CargaMasivaAs400.deps.json
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\bin\Debug\net6.0-windows\CargaMasivaAs400.runtimeconfig.json
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\bin\Debug\net6.0-windows\CargaMasivaAs400.dll
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\bin\Debug\net6.0-windows\CargaMasivaAs400.pdb
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\CargaMasivaAs400.csproj.AssemblyReference.cache
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\CargaMasivaAs400.frmCargaMasivaAs400.resources
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\CargaMasivaAs400.csproj.GenerateResource.cache
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\CargaMasivaAs400.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\CargaMasivaAs400.AssemblyInfoInputs.cache
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\CargaMasivaAs400.AssemblyInfo.cs
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\CargaMasivaAs400.csproj.CoreCompileInputs.cache
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\CargaMasivaAs400.dll
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\refint\CargaMasivaAs400.dll
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\CargaMasivaAs400.pdb
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\CargaMasivaAs400.genruntimeconfig.cache
+C:\Users\walter.medinap\Documents\08. CargaMasivaAs400\CargaMasivaAs400\obj\Debug\net6.0-windows\ref\CargaMasivaAs400.dll
